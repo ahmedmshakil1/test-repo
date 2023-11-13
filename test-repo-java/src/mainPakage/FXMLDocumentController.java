@@ -21,26 +21,15 @@ public class FXMLDocumentController implements Initializable {
     
     @FXML
     private Label label;
-    @FXML
-    private Button button;
-    @FXML
-    private Button buttonHolder;
-    @FXML
-    private RadioButton RadioButton;
-    
-    @FXML
-    private void handleButtonAction(ActionEvent event) {
-        System.out.println("You clicked me!");
-        label.setText("Hello World!");
-    }
+//    @FXML
+//    private Button buttonHolder;
+//    @FXML
+//    private RadioButton RadioButton;
     
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         // TODO
     }    
 
-    @FXML
-    private void buttonHolderonClick(ActionEvent event) {
-    }
     
 }
