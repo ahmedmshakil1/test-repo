@@ -35,5 +35,5 @@ public class MainApplication extends Application {
     
 }
 
-//change 38 no. line from netbeans
-// change form laptop code nb 203
+
+// change the code from github on line nb 39 on the main branch -202
